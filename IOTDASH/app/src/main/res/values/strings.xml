@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IOTDASH</string>
+    <string name="Textview">Hello world</string>
+</resources>
